@@ -2,7 +2,7 @@
 This repository contains the code and data used to model the El Niño–Southern Oscillation (ENSO) using Locally Stationary Basis (LSB) processes. 
 
 ### Data
-The ENSO data used in this project is sourced from the National Oceanic and Atmospheric Administration (NOAA). Specifically, the Southern Oscillation Index (SOI) dataset is obtained from:
+The ENSO data used in this project is sourced from the National Oceanic and Atmospheric Administration (NOAA). Specifically, the dataset is obtained from:
 
 https://www.ncei.noaa.gov/access/monitoring/enso/soi
 
