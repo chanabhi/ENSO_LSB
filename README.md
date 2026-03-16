@@ -1,4 +1,4 @@
-# ENSO_LSB
+## ENSO_LSB
 This repository contains the code and data used to model the El Niño–Southern Oscillation (ENSO) using Locally Stationary Basis (LSB) processes. 
 
 ### Data
